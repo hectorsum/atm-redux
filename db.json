@@ -1,0 +1,19 @@
+{
+  "products":[
+    {
+      "id":1,
+      "nombre":"Jugo de Zanahoria",
+      "precio": "311"
+    },
+    {
+      "id":2,
+      "nombre":"Jugo de Naranja",
+      "precio": "1"
+    },
+    {
+      "id":3,
+      "nombre":"Rib Eye 800g",
+      "precio": "200"
+    }
+  ]
+}
